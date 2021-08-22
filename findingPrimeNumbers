@@ -1,0 +1,42 @@
+//
+//  main.c
+//  Program to find Prime and Composite Numbers
+//
+//  Created by Nikhil Ignatius V on 20/08/21.
+//
+
+#include <stdio.h>
+
+
+int main() {
+    int a;
+    printf("Enter your number: ");
+    scanf("%d",&a);
+    if (a == 0){
+       printf("Your number %d is neither prime nor composite\n\n",a);
+   }
+    
+    else  if (a%2 == 0)
+    {
+        printf("Your number %d is a composite number\n\n",a);
+    }
+     else if (a%3 == 0)
+    {
+        printf("Your number %d is a composite number\n\n",a);
+        
+        
+    }
+    else if (a == 1){
+       printf("Your number %d is neither prime nor composite\n\n",a);
+   }
+   
+    
+   
+   
+    
+    else{
+        printf("Your number %d is a prime number\n\n",a);
+    }
+    
+    getchar();
+}
