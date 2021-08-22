@@ -2,7 +2,7 @@
 //  main.c
 //  FindingCircumferenceOfCircle
 //
-//  Created by Kanix on 22/08/21.
+//  Created by Nikhil Ignatius V on 22/08/21.
 //
 #include <stdio.h>
 
