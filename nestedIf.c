@@ -2,7 +2,7 @@
 //  main.c
 //  nestedIf
 //
-//  Created by Kanix on 19/08/21.
+//  Created by Nikhil Ignatius V on 19/08/21.
 //
 
 #include <stdio.h>
