@@ -2,7 +2,7 @@
 //  main.c
 //  increment decrement opretators
 //
-//  Created by Kanix on 05/08/21.
+//  Created by Nikhil Ignatius V on 05/08/21.
 //
 
 #include <stdio.h>
